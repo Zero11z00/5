@@ -8,6 +8,7 @@ print ("This is the termex commands for beginners+Tool calls for the group Amino
 print ("Joker.a.1.3")
 
 cod = input ("Update: ")
+os.system ("apt update && apt upgrade") 
 
 if cod ==  "apt update && apt upgrade" :
 
